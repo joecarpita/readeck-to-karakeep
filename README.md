@@ -31,6 +31,6 @@ The script uses Karakeep’s API access to work, so you will need to create an A
     > 
 2. Unzip the Readeck export archive locally on your machine
 3. In Karakeep - create an API Key in **User Settings > API Keys**
-4. Run the python script in terminal. It will prompt for the Karakeep API endpoint (e.g. *https://karakeep.example.com/api/v1*), API key, and location of the Readeck export folder. 
+4. Run the "readeck_to_karakeep_import.py" python script in terminal. It will prompt for the Karakeep API endpoint (e.g. *https://karakeep.example.com/api/v1*), API key, and location of the Readeck export folder. 
 
 My archive with about ~1000 bookmarks and ~150 tags took about 20-30 minutes, I imagine mileage may vary.
